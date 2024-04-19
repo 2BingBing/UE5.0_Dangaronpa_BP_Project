@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UEProjects\\dangaframeset\\Plugins\\Dialog\\Source\\Dialog\\Dialog.Build.cs",
+		"E:\\UEProjects\\dangaframeset\\Intermediate\\Source\\dangaframeset.Build.cs",
+		"E:\\UEProjects\\dangaframeset\\Intermediate\\Source\\dangaframeset.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
